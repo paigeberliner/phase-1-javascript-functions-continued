@@ -16,7 +16,7 @@ function wrapAdjective(Adjective = 'Special') {
     }
     else {
       return function(adjective) {
-        return `You are || a dedicated programmer||!`;
+        return `You are ||a dedicated programmer||!`;
       }
     }
   }
